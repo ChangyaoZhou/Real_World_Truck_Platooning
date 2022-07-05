@@ -1,5 +1,5 @@
 # Practical Course Learning For Self-Driving Cars and Intelligent Systems WS21: Truck Platooning
-This repository is truck platooning based on model predictive control (MPC) and tested in the Carla simulator. The main concept of this project is to first design a model predictive controller that generates control values for the ego vehicles, then train a neural network by using mpc outputs as ground-truth labels.
+This repository is truck platooning based on model predictive control (MPC) and tested in the Carla simulator. The main concept of this project is to first design a model predictive controller that generates control values for the ego vehicles, then train a neural network by using mpc outputs as ground-truth labels. Our method demonstrates robustness to different trajectories and high ratio road  completion. Our approach can be easily transferredto the real-world applications of vehicle platooning, whichwould hopefully inspire future research in this direction.
 
 The framework of our project is as following:
 
