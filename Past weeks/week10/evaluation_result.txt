@@ -1,0 +1,39 @@
+###basic
+Town04 SpawnPoint368 Infraction:1.93e-03 Conmpletion:25.00%
+Town04 SpawnPoint005 Infraction:5.00e-01 Conmpletion:61.40%
+Town05 SpawnPoint002 Infraction:1.00e+00 Conmpletion:14.20%
+Town05 SpawnPoint100 Infraction:3.44e-02 Conmpletion:46.70%
+Town05 SpawnPoint150 Infraction:8.19e-02 Conmpletion:44.60%
+Town01 SpawnPoint000 Infraction:4.40e-02 Conmpletion:32.20%
+Town01 SpawnPoint100 Infraction:2.10e-01 Conmpletion:29.20%
+Town01 SpawnPoint150 Infraction:1.00e+00 Conmpletion:37.00%
+Town02 SpawnPoint000 Infraction:3.44e-02 Conmpletion:46.80%
+Town02 SpawnPoint020 Infraction:4.61e-03 Conmpletion:14.60%
+Town02 SpawnPoint100 Infraction:6.71e-02 Conmpletion:12.70%
+Town03 SpawnPoint112 Infraction:5.37e-02 Conmpletion:47.40%
+Town03 SpawnPoint000 Infraction:6.40e-01 Conmpletion:37.40%
+
+###stereo
+Town03 SpawnPoint000 Inftaction:0.204800 Completion:0.177000
+Town03 SpawnPoint112 Inftaction:0.204800 Completion:0.145000
+Town04 SpawnPoint005 Inftaction:0.500000 Completion:0.626000
+Town04 SpawnPoint368 Inftaction:0.022518 Completion:0.140000
+Town05 SpawnPoint002 Inftaction:0.409600 Completion:0.141000
+Town05 SpawnPoint100 Inftaction:0.026844 Completion:0.428000
+Town05 SpawnPoint150 Inftaction:0.640000 Completion:0.183000
+Town01 SpawnPoint000 Inftaction:0.204800 Completion:0.141000
+Town01 SpawnPoint100 Inftaction:0.083886 Completion:0.423000
+Town01 SpawnPoint150 Inftaction:0.027488 Completion:0.333000
+
+###depth map
+Town03 SpawnPoint000 Inftaction:0.409600 Completion:0.876000
+Town03 SpawnPoint112 Inftaction:0.400000 Completion:0.161000
+Town04 SpawnPoint005 Inftaction:0.209715 Completion:1.000000
+Town04 SpawnPoint368 Inftaction:0.085899 Completion:1.000000
+Town05 SpawnPoint002 Inftaction:0.320000 Completion:0.122000
+Town05 SpawnPoint100 Inftaction:0.004836 Completion:1.000000
+Town05 SpawnPoint150 Inftaction:0.000068 Completion:1.000000
+Town01 SpawnPoint000 Inftaction:0.500000 Completion:0.148000
+Town01 SpawnPoint100 Inftaction:0.034360 Completion:0.925000
+Town01 SpawnPoint150 Inftaction:0.327680 Completion:0.468000
+
